@@ -22,11 +22,11 @@ For this project, refactor and test as much as possible while you are building. 
 
 1. `Optional` Create a Landing Page from Scratch. Or use the GitHub repository for the given project [x]
 2. Dynamic build of the navbar on the page using JavaScript [x]
-...* All components of the navbar should be solely created by JS
-...* `Optional` hide the navbar while not scrolling on the page
-...* Smoothly scroll to the section when section nav link is clicked
+..* All components of the navbar should be solely created by JS
+..* `Optional` hide the navbar while not scrolling on the page
+..* Smoothly scroll to the section when section nav link is clicked
 3. Change the view of the sections when in view of the window as well as vise versa [x]
-...* Learn how Intersection Observer works and how to use it to manipulate the sections
+..* Learn how Intersection Observer works and how to use it to manipulate the sections
 4. `Optional` add a Top Button that allows the user to scroll to the Top that shows up after the page fold [x]
 5. `Optional` allow for the user to collapse sections [x] 
 
