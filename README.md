@@ -1,6 +1,6 @@
 # Landing Page - Udacity Project 2 
 ###### completed by Farah Alshammari
-======
+------
 
 ```
 The basic HTML and CSS code was taken from the provided Github repository Udacity has provided. 
@@ -16,7 +16,7 @@ This project aims to give you real-world scenarios of manipulating the DOM. The 
 
 For this project, refactor and test as much as possible while you are building. You should figure for every piece of functionality you add, you will likely spend just as much time testing and refactoring your code. If it takes you 3 hours to figure out the logic, it should likely take you another 3 hours determining that you wrote the best code possible. As your skills improve, this process will feel more natural. Make sure to remove any debugging code from your final submission.
 
-======
+------
 
 ### Project Requirements and Parameters: 
 
@@ -30,7 +30,7 @@ For this project, refactor and test as much as possible while you are building. 
 4. `Optional` add a Top Button that allows the user to scroll to the Top that shows up after the page fold [x]
 5. `Optional` allow for the user to collapse sections [x] 
 
-======
+------
 
 ### Changes I Made to the Original CSS Code: 
 
@@ -42,7 +42,7 @@ For this project, refactor and test as much as possible while you are building. 
 5. Created the collapse class for sections for the section collapsing functionality 
 6. Added the 'Top' button CSS 
 
-======
+------
 
 ### My app.js File Set Up: 
 
